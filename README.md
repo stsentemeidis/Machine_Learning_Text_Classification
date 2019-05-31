@@ -1,6 +1,8 @@
 # Machine_Learning_Text_Classification-PYTHON
 
-Detecting FAKE & REAL news
+Detecting FAKE & REAL news. 
+
+It is highly suggested that the notebook is opened through **Google Colaboratory**, as the use of neural networks for the problem solution makes the code harder to run locally.
 
 This is one of my Master's projects on **Text Classification**, in order to detect whether a text along with its title are *real* or *fake*. 
 
