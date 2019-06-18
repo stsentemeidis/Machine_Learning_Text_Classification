@@ -1,4 +1,4 @@
-# Machine_Learning_Text_Classification
+# Machine Learning Text Classification
 
 Detecting FAKE & REAL news. 
 
